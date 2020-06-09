@@ -47,5 +47,4 @@ figure.facecolor : F2F3F4   # kelly white
 figure.edgecolor : 222222   # kelly black
 
 # FONTS
-font.family         : sans-serif
-font.sans-serif     : lato, sans-serif
+font.family         : lato
