@@ -1,0 +1,51 @@
+# To check more avaialble options see:
+# https://matplotlib.org/tutorials/introductory/customizing.html
+
+# PDF Generation
+pdf.fonttype : 42
+
+# COLORS
+
+axes.prop_cycle : cycler(color=['0067A5', 'B3446C', '008856', '875692', 'F38400'])
+
+patch.facecolor: 0067A5
+
+# AXES 
+axes.labelsize : 16
+axes.titlesize : 18
+axes.labelweight : normal
+axes.edgecolor : 222222
+axes.labelcolor : 222222
+axes.linewidth : 2
+axes.spines.top : False
+axes.spines.right : False
+axes.spines.bottom : True
+axes.spines.left : True
+
+# LINES
+lines.linewidth : 2
+
+# SCATTER PLOT
+scatter.marker : .
+lines.markersize : 4 
+
+# TICKS
+xtick.labelsize : 14
+xtick.color : 222222
+xtick.direction : in
+ytick.labelsize : 14
+ytick.color : 222222
+ytick.direction : in
+
+# LEGENDS
+legend.fontsize : 12
+legend.markerscale : 2
+
+# FIGURE OUTPUT
+figure.figsize  : 16, 4
+figure.facecolor : F2F3F4   # kelly white
+figure.edgecolor : 222222   # kelly black
+
+# FONTS
+font.family         : sans-serif
+font.sans-serif     : arial, sans-serif
