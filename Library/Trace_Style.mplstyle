@@ -48,4 +48,4 @@ figure.edgecolor : 222222   # kelly black
 
 # FONTS
 font.family         : sans-serif
-font.sans-serif     : arial, sans-serif
+font.sans-serif     : lato, sans-serif
